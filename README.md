@@ -1,12 +1,6 @@
 # Face Controlled Mouse (Computer Vision)
 
-A real-time human-computer interaction system that allows controlling the mouse using face movement and eye blinking.  
-Built باستخدام Python و OpenCV و dlib لتتبع الوجه والعين وتحويلها إلى أوامر تحكم.
-
----
-
-## Demo
-(Add screenshot or demo video showing mouse control)
+A real-time human-computer interaction system that allows controlling the mouse using face movement and eye blinking.
 
 ---
 
