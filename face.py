@@ -1,5 +1,3 @@
-from turtle import right
-
 import cv2
 import pyautogui as pt
 import dlib
